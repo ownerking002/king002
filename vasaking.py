@@ -157,7 +157,7 @@ logo2 = """
                                                             
                                                    
                          DON'T COPY MY SCRIPT
-                                      RED-MAFIA          
+                                      KING-002          
                                         TNX(RK)
 ╔══──────────────────────────╗─══╗
 ║ OWNER 💓💓💓OWNER KING           ║║
